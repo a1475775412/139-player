@@ -1,5 +1,6 @@
 # iframe-player
 Iframed 163music cplayer/aplayer
+[博客](http://www.mcxhz.cn/rj/xiaolin/2019/01/30.html)
 
 ### 起因
 ~~网易云自带的播放器并不支持 `https`, 而且功能有些落后了:(~~ 目前已经支持 `https`.
